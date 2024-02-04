@@ -1,2 +1,2 @@
-# Calculator using web Services
-## A simple Soup Api web service
+# A Calculator using Web Services
+## A simple Soup Api Web Service
